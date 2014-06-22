@@ -4,6 +4,8 @@
 *.obj
 *.elf
 
+*.lice
+
 # Libraries
 *.lib
 *.a
